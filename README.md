@@ -3,18 +3,18 @@
 <h2>👨‍💻 Software Engineering Projects (Taken Independently):</h2>
 
 - <b>JSQuiz (MongoDB, Express, React, Node)</b>
-  - [Live](https://github.com/Aun-Raza/Geo-Quiz)
-  - [Demonstration](https://www.youtube.com/watch?v=emlL-SYnnXk)
+  - [Live](https://js-quiz-q607.onrender.com/)
+  - [Video Demonstration](https://www.youtube.com/watch?v=emlL-SYnnXk)
   - [Repository](https://github.com/Aun-Raza/Geo-Quiz)
   
 - <b>Pixel Habit Tracker (React, Node, GraphQL)</b>
-  - [Live](https://github.com/Aun-Raza/Geo-Quiz)
-  - [Demonstration](https://www.youtube.com/watch?v=o8DIh0qejXY)
+  - [Live](https://pixeltracker-7vq3.onrender.com)
+  - [Video Demonstration](https://www.youtube.com/watch?v=o8DIh0qejXY)
   - [Repository](https://github.com/Aun-Raza/Geo-Quiz)
     
 - <b>NoteDev (NextTS, React, MySQL)</b>
-  - [Live](https://github.com/Aun-Raza/Geo-Quiz)
-  - [Demonstration](https://www.youtube.com/watch?v=S6baRTcF-pI)
+  - [Live](https://notedev-hazel.vercel.app/)
+  - [Video Demonstration](https://www.youtube.com/watch?v=S6baRTcF-pI)
   - [Repository](https://github.com/Aun-Raza/Geo-Quiz)
 
 <h2>👨‍🏫 Education & Certifications</h2>
