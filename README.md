@@ -4,17 +4,17 @@
 
 - <b>JSQuiz (MongoDB, Express, React, Node)</b>
   - [Live](https://github.com/Aun-Raza/Geo-Quiz)
-  - [Demonstration](https://github.com/Aun-Raza/Geo-Quiz)
+  - [Demonstration](https://www.youtube.com/watch?v=emlL-SYnnXk)
   - [Repository](https://github.com/Aun-Raza/Geo-Quiz)
   
 - <b>Pixel Habit Tracker (React, Node, GraphQL)</b>
   - [Live](https://github.com/Aun-Raza/Geo-Quiz)
-  - [Demonstration](https://github.com/Aun-Raza/Geo-Quiz)
+  - [Demonstration](https://www.youtube.com/watch?v=o8DIh0qejXY)
   - [Repository](https://github.com/Aun-Raza/Geo-Quiz)
     
 - <b>NoteDev (NextTS, React, MySQL)</b>
   - [Live](https://github.com/Aun-Raza/Geo-Quiz)
-  - [Demonstration](https://github.com/Aun-Raza/Geo-Quiz)
+  - [Demonstration](https://www.youtube.com/watch?v=S6baRTcF-pI)
   - [Repository](https://github.com/Aun-Raza/Geo-Quiz)
 
 <h2>👨‍🏫 Education & Certifications</h2>
