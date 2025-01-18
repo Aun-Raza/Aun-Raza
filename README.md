@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2018.<br>📚 I'm currently learning system design.<br>🎯 Goals: To become the best version of myself.<br>🎲 Fun fact: I'm a polymath.</p>
 
 ###
 
@@ -19,22 +19,40 @@
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="springboot logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="asp.net logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
+
+###
+
+<h2>🏢 Work Experience</h2>
+  <ul>
+    <li>
+      <a href="https://www.linkedin.com/company/sensetech-solutions">SenseTech Solutions (Jun 2023 - Jun 2024)</a>
+    </li>
+  </ul>
+
+###
+
+<h2>👨‍🏫 Education</h2>
+  <ul>
+    <li>
+      <a href="https://www.linkedin.com/school/centennial-college">Centennial College (Sept 2020 - May 2024)</a>
+    </li>
+  </ul>
 
 ###
 
@@ -49,13 +67,6 @@
 - <b>NextGenVault (Spring Boot, AWS, React, MySQL)</b>
   - [Repository](https://github.com/Aun-Raza/Geo-Quiz)
 
-<h2>👨‍🏫 Education</h2>
-- [Centennial College](https://www.linkedin.com/school/centennial-college)
-
-<h2>🏢 Work Experience</h2>
-- [SenseTech Solutions](https://www.linkedin.com/school/centennial-college)
-
-
 <h2>📚 Favorite Self-Improvement Books</h2>
 
 - [Atomic Habits](https://jamesclear.com/atomic-habits)
@@ -65,6 +76,4 @@
 - [George Orwell 1984](https://www.sparknotes.com/lit/1984/summary/)
 
 <h2> 🤳 Connect with me:</h2>
-[<img align="left" alt="AunRaza | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/aun--raza
+<a href="https://www.linkedin.com/in/aun--raza/"><img align="left" alt="AunRaza | LinkedIn" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
