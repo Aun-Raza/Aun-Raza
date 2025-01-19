@@ -58,22 +58,26 @@
 
 <h2>👨‍💻 Software Engineering Projects:</h2>
 
+- <b>NextGenVault (Spring Boot, AWS, React, MySQL)</b>
+  - [Repository](https://github.com/Aun-Raza/ecommerce)
 - <b>JSQuiz (MongoDB, Express, React, Node)</b>
   - [Repository](https://github.com/Aun-Raza/Geo-Quiz)
   
 - <b>Pixel Habit Tracker (React, Node, GraphQL)</b>
-  - [Repository](https://github.com/Aun-Raza/Geo-Quiz)
+  - [Repository](https://github.com/Aun-Raza/PixelHabitTracker)
     
-- <b>NextGenVault (Spring Boot, AWS, React, MySQL)</b>
-  - [Repository](https://github.com/Aun-Raza/Geo-Quiz)
 
 <h2>📚 Favorite Self-Improvement Books</h2>
 
 - [Atomic Habits](https://jamesclear.com/atomic-habits)
-- [How to Win Friends and Influence People](https://fs.blog/how-to-win-friends-and-influence-people/)
-- [Soft Skills: The Software Developer's Life Manual](https://michael2012z.medium.com/book-review-soft-skills-the-software-developers-life-manual-by-john-sonmez-42c19a7fc3cf)
-- [How I Found Freedom in an Unfree World](https://www.nateliason.com/notes/freedom-unfree-world-harry-browne)
 - [George Orwell 1984](https://www.sparknotes.com/lit/1984/summary/)
+- [How to Win Friends and Influence People](https://fs.blog/how-to-win-friends-and-influence-people/)
+- [How I Found Freedom in an Unfree World](https://www.nateliason.com/notes/freedom-unfree-world-harry-browne)
+- [Make It Stick](https://blades.medium.com/book-review-make-it-stick-the-science-of-successful-learning-80fa9ff1fb52)
+- [Mastery](https://medium.com/@maruthisandeep/mastery-by-robert-greene-d8025d206957#:~:text=Mastery%20doesn't%20depend%20upon,from%20us%20at%20the%20beginning.)
+- [Soft Skills: The Software Developer's Life Manual](https://michael2012z.medium.com/book-review-soft-skills-the-software-developers-life-manual-by-john-sonmez-42c19a7fc3cf)
+- [The Power of Full Engagement](https://medium.com/@bookey.en/the-power-of-full-engagement-energizing-your-lifes-potential-7891793b738d)
+- [Wise Decisions](https://emeryleadershipgroup.com/blog/adding-wisdom-to-your-decision-making-with-drs-jim-loehr-and-sheila-ohlsson-episode-167)
 
 <h2> 🤳 Connect with me:</h2>
 <a href="https://www.linkedin.com/in/aun--raza/"><img align="left" alt="AunRaza | LinkedIn" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
